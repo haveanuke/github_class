@@ -1,0 +1,1 @@
+const githubclassvar = "Hello";
